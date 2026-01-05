@@ -3,7 +3,7 @@
 A production-ready personal finance management application with real UPI payment integration, built specifically for Indian users.
 
 ## 📺 App Overview
-🎥 **[Watch App Demo](https://www.youtube.com/watch?v=BHhurM6t-r8))**
+🎥 **[Watch App Demo](https://www.youtube.com/watch?v=BHhurM6t-r8)**
 
 See Spendly in action! This video showcases the complete app functionality, UPI payment integration, and user experience.
 
